@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "esnext",
+    "noImplicitAny": false,
     "module": "esnext",
     "strict": true,
     "jsx": "preserve",
@@ -35,7 +36,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/plugins/base.js"  ],
   "exclude": [
     "node_modules"
   ]

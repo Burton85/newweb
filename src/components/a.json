@@ -1,0 +1,226 @@
+{
+    "id": "602b6e45b4986748e5f2101c",
+    "address": null,
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dateLastActivity": "2021-02-16T07:04:59.902Z",
+    "desc": "Vuetify is the #1 component library for Vue.js and has been in active development since 2016. The goal of the project is to provide users with everything that is needed to build rich and engaging web applications using the Material Design specification. It accomplishes that with a consistent update cycle, Long-term Support (LTS) for previous versions, responsive community engagement, a vast ecosystem of resources and a dedication to quality components.",
+    "descData": { "emoji": {} },
+    "dueReminder": null,
+    "idBoard": "5ff5af00b1b4c0185d71966b",
+    "idLabels": [],
+    "idList": "602b69c0147d480846824156",
+    "idMembersVoted": [],
+    "idShort": 14,
+    "idAttachmentCover": "602b6e885d3b4741f6ec9282",
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "AboutMe",
+    "pos": 131071,
+    "shortLink": "lBZattUM",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "labels": [],
+    "shortUrl": "https://trello.com/c/lBZattUM",
+    "start": null,
+    "url": "https://trello.com/c/lBZattUM/14-aboutme",
+    "idMembers": [],
+    "email": "user63257349+2uslscz3f6zb7ifjdvh+2vvph2526y8btfa0ufw+0v8fi8wdun@boards.trello.com",
+    "limits": {
+        "attachments": { "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 900 } },
+        "checklists": { "perCard": { "status": "ok", "disableAt": 500, "warnAt": 450 } },
+        "stickers": { "perCard": { "status": "ok", "disableAt": 70, "warnAt": 63 } }
+    },
+    "badges": {
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 1,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "idChecklists": [],
+    "cover": {
+        "idAttachment": "602b6e885d3b4741f6ec9282",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
+        "scaled": [
+            {
+                "_id": "602b6e895d3b4741f6ec9283",
+                "id": "602b6e895d3b4741f6ec9283",
+                "scaled": false,
+                "url": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/70x50/6ea478372bb814a9da619cd1f6c4774d/image.png",
+                "bytes": 3301,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "_id": "602b6e895d3b4741f6ec9284",
+                "id": "602b6e895d3b4741f6ec9284",
+                "scaled": false,
+                "url": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/250x150/6ea478372bb814a9da619cd1f6c4774d/image.png",
+                "bytes": 19233,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "_id": "602b6e895d3b4741f6ec9285",
+                "id": "602b6e895d3b4741f6ec9285",
+                "scaled": true,
+                "url": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/150x150/6ea478372bb814a9da619cd1f6c4774d/image.png",
+                "bytes": 18292,
+                "height": 150,
+                "width": 150
+            },
+            {
+                "_id": "602b6e895d3b4741f6ec9286",
+                "id": "602b6e895d3b4741f6ec9286",
+                "scaled": true,
+                "url": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/300x300/6ea478372bb814a9da619cd1f6c4774d/image.png",
+                "bytes": 52456,
+                "height": 300,
+                "width": 300
+            },
+            {
+                "_id": "602b6e895d3b4741f6ec9287",
+                "id": "602b6e895d3b4741f6ec9287",
+                "scaled": true,
+                "url": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/600x600/6ea478372bb814a9da619cd1f6c4774d/image.png",
+                "bytes": 135471,
+                "height": 600,
+                "width": 600
+            },
+            {
+                "_id": "602b6e895d3b4741f6ec9288",
+                "id": "602b6e895d3b4741f6ec9288",
+                "scaled": true,
+                "url": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/750x750/6ea478372bb814a9da619cd1f6c4774d/image.png",
+                "bytes": 170931,
+                "height": 750,
+                "width": 750
+            },
+            {
+                "_id": "602b6e895d3b4741f6ec9289",
+                "id": "602b6e895d3b4741f6ec9289",
+                "scaled": true,
+                "url": "https://trello-attachments.s3.amazonaws.com/5ff5af00b1b4c0185d71966b/602b6e45b4986748e5f2101c/4b038331ab46ca187d707c485661f094/image.png",
+                "bytes": 309881,
+                "height": 750,
+                "width": 750
+            }
+        ],
+        "edgeColor": "#252d3e",
+        "idPlugin": null
+    },
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "602b6e9bd33c077595a6e1e4",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "old": { "desc": "" },
+                "card": {
+                    "desc": "Vuetify is the #1 component library for Vue.js and has been in active development since 2016. The goal of the project is to provide users with everything that is needed to build rich and engaging web applications using the Material Design specification. It accomplishes that with a consistent update cycle, Long-term Support (LTS) for previous versions, responsive community engagement, a vast ecosystem of resources and a dedication to quality components.",
+                    "id": "602b6e45b4986748e5f2101c",
+                    "name": "AboutMe",
+                    "idShort": 14,
+                    "shortLink": "lBZattUM"
+                },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" },
+                "list": { "id": "602b69c0147d480846824156", "name": "Burton" }
+            },
+            "type": "updateCard",
+            "date": "2021-02-16T07:04:59.911Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        },
+        {
+            "id": "602b6e895d3b4741f6ec928a",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "attachment": {
+                    "id": "602b6e885d3b4741f6ec9282",
+                    "name": "image.png",
+                    "url": "https://trello-attachments.s3.amazonaws.com/5ff5af00b1b4c0185d71966b/602b6e45b4986748e5f2101c/4b038331ab46ca187d707c485661f094/image.png",
+                    "previewUrl": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/600x600/6ea478372bb814a9da619cd1f6c4774d/image.png",
+                    "previewUrl2x": "https://trello-attachments.s3.amazonaws.com/602b6e45b4986748e5f2101c/750x750/6ea478372bb814a9da619cd1f6c4774d/image.png"
+                },
+                "card": { "id": "602b6e45b4986748e5f2101c", "name": "AboutMe", "idShort": 14, "shortLink": "lBZattUM" },
+                "list": { "id": "602b69c0147d480846824156", "name": "Burton" },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" }
+            },
+            "type": "addAttachmentToCard",
+            "date": "2021-02-16T07:04:41.096Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        },
+        {
+            "id": "602b6e45b4986748e5f2101d",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "card": { "id": "602b6e45b4986748e5f2101c", "name": "AboutMe", "idShort": 14, "shortLink": "lBZattUM" },
+                "list": { "id": "602b69c0147d480846824156", "name": "Burton" },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" }
+            },
+            "type": "createCard",
+            "date": "2021-02-16T07:03:33.700Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        }
+    ]
+}
