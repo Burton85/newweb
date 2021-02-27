@@ -17,8 +17,8 @@ export default new Vuex.Store({
       {icon:'mdi-account-group-outline' , name:'開璽國際有限公司' , desc:'開璽國際有限公司'},
       {icon:'mdi-account-group-outline' , name:'昊盈資訊有限公司' , desc:'昊盈資訊有限公司'},
     ],
-    // Works: [{name:"",src:"",link:"",desc:""}] ,
-    Works: [] ,
+    Works: new Array ,
+    // Works: [] ,
   },
   mutations: {
     addCover(state, coverUrl) {
