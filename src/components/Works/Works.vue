@@ -12,7 +12,7 @@
             </v-responsive>
 
             <v-row>
-                <WorkCard v-for="(work, i) in works" :key="i" :work="work"/>
+                <WorkCard v-for="(item, i) in list" :key="i" :work="item"/>
             </v-row>
         </v-container>
 
@@ -27,11 +27,16 @@ export default {
     components: {
         WorkCard,
     },
-    props: {
-        works: {
-            type: Array,
-            default: [],
-        },
-    },
+    // props: {
+    //     works: {
+    //         type: Array,
+    //         default: [],
+    //     },
+    // },
+    data(){
+        return{
+            list:this.$store.state.Works
+        }
+    }
 };
 </script>

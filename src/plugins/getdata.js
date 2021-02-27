@@ -21,5 +21,6 @@ const dataGetter={
             });
         return value;
     },
+
 }
-export {dataGetter};
+export default dataGetter;

@@ -9,21 +9,20 @@
 
                 <v-divider></v-divider>
             </v-responsive>
-
             <v-row>
-                <v-col v-for="({ icon, title, text }, i) in list" :key="i" cols="12" md="4">
-                    <v-card class="py-12 px-4" color="grey lighten-5" flat>
+                <v-col v-for="(item, i) in list" :key="i" cols="12" md="4">
+                    <v-card class="py-12 px-4" color="grey lighten-5" flat height="400">
                         <v-theme-provider dark>
                             <div>
                                 <v-avatar color="primary" size="88">
-                                    <v-icon large v-text="icon"></v-icon>
+                                    <v-icon large v-text="'mdi-account-group-outline'"></v-icon>
                                 </v-avatar>
                             </div>
                         </v-theme-provider>
 
-                        <v-card-title class="justify-center font-weight-black text-uppercase" v-text="title"></v-card-title>
+                        <v-card-title class="justify-center font-weight-black text-uppercase" v-text="item.name"></v-card-title>
 
-                        <v-card-text class="subtitle-1" v-text="text"> </v-card-text>
+                        <v-card-text class="subtitle-1" v-text="item.desc"> </v-card-text>
                     </v-card>
                 </v-col>
             </v-row>
@@ -37,11 +36,10 @@
 <script>
 export default {
     name: 'WorkExp',
-    props: {
-        list: {
-            type: Array,
-            default: [],
-        },
-    },
+    data(){
+        return{
+            list:this.$store.state.workExp
+        }
+    }
 };
 </script>

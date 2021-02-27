@@ -2,12 +2,12 @@
     <v-col cols="12" md="4">
         <v-img :src="work.src" class="mb-4" height="275" max-width="100%"></v-img>
 
-        <h3 class="font-weight-black mb-4 text-uppercase" v-text="work.title"></h3>
+        <h3 class="font-weight-black mb-4 text-uppercase text-center" v-text="work.name" ></h3>
 
-        <div class="title font-weight-light mb-5" v-text="work.text"></div>
+        <div class="font-weight-light desc mt-5" v-html="work.desc" height="200px"></div>
 
-        <v-btn class="ml-n4 font-weight-black" text>
-            vIEW MORE
+        <v-btn :href="work.link" class="ml-n4 font-weight-black " block text target="_blank">
+            VIEW MORE
         </v-btn>
     </v-col>
 </template>
@@ -22,3 +22,9 @@ export default {
     },
 };
 </script>
+<style scoped>
+.desc {
+    display: block;
+    height: 90px;
+}
+</style>

@@ -1,6 +1,9 @@
 <template>
     <section id="stats">
-        <v-parallax :height="$vuetify.breakpoint.smAndDown ? 700 : 500" src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">
+        <v-parallax
+            :height="$vuetify.breakpoint.smAndDown ? 700 : 500"
+            src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+        >
             <v-container fill-height>
                 <v-row class="mx-auto mt-12">
                     <v-col v-for="[value, title] of stats" :key="title" cols="12" md="3">

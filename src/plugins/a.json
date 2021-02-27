@@ -1,0 +1,286 @@
+{
+    "id": "602fe15089aee08e4f5784f1",
+    "address": null,
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "dateLastActivity": "2021-02-19T16:07:39.990Z",
+    "desc": "",
+    "descData": null,
+    "dueReminder": null,
+    "idBoard": "5ff5af00b1b4c0185d71966b",
+    "idLabels": [],
+    "idList": "602b69c0147d480846824156",
+    "idMembersVoted": [],
+    "idShort": 15,
+    "idAttachmentCover": null,
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "Work Experience",
+    "pos": 196607,
+    "shortLink": "7R57rMIz",
+    "isTemplate": false,
+    "cardRole": null,
+    "dueComplete": false,
+    "due": null,
+    "labels": [],
+    "shortUrl": "https://trello.com/c/7R57rMIz",
+    "start": null,
+    "url": "https://trello.com/c/7R57rMIz/15-work-experience",
+    "idMembers": [],
+    "email": "user63257349+2uslscz3f6zb7ifjdvh+2vwdsz9mdw3ju0iswdt+2reitgdon6@boards.trello.com",
+    "limits": {
+        "attachments": { "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 900 } },
+        "checklists": { "perCard": { "status": "ok", "disableAt": 500, "warnAt": 450 } },
+        "stickers": { "perCard": { "status": "ok", "disableAt": 70, "warnAt": 63 } }
+    },
+    "badges": {
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 3,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "subscribed": false,
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
+        "idPlugin": null
+    },
+    "idChecklists": ["602fe175cd187864bd391016", "602fe199529b045346427ba2", "602fe1fac267ad39e462dfce"],
+    "checklists": [
+        {
+            "id": "602fe175cd187864bd391016",
+            "name": "中央資訊社",
+            "idCard": "602fe15089aee08e4f5784f1",
+            "pos": 16384,
+            "creationMethod": null,
+            "idBoard": "5ff5af00b1b4c0185d71966b",
+            "limits": { "checkItems": { "perChecklist": { "status": "ok", "disableAt": 200, "warnAt": 180 } } },
+            "checkItems": [
+                {
+                    "idChecklist": "602fe175cd187864bd391016",
+                    "state": "incomplete",
+                    "id": "602fe1dd69644f2bd3198897",
+                    "name": "aaaaa",
+                    "nameData": null,
+                    "pos": 16588,
+                    "due": null,
+                    "idMember": null
+                }
+            ]
+        },
+        {
+            "id": "602fe199529b045346427ba2",
+            "name": "開璽國際有限公司",
+            "idCard": "602fe15089aee08e4f5784f1",
+            "pos": 32768,
+            "creationMethod": null,
+            "idBoard": "5ff5af00b1b4c0185d71966b",
+            "limits": { "checkItems": { "perChecklist": { "status": "ok", "disableAt": 200, "warnAt": 180 } } },
+            "checkItems": [
+                {
+                    "idChecklist": "602fe199529b045346427ba2",
+                    "state": "incomplete",
+                    "id": "602fe1e268b65734c92b3198",
+                    "name": "bbbb",
+                    "nameData": null,
+                    "pos": 17128,
+                    "due": null,
+                    "idMember": null
+                }
+            ]
+        },
+        {
+            "id": "602fe1fac267ad39e462dfce",
+            "name": "昊盈資訊有限公司",
+            "idCard": "602fe15089aee08e4f5784f1",
+            "pos": 49152,
+            "creationMethod": null,
+            "idBoard": "5ff5af00b1b4c0185d71966b",
+            "checkItems": [
+                {
+                    "idChecklist": "602fe1fac267ad39e462dfce",
+                    "state": "incomplete",
+                    "id": "602fe24bb57f407e16697271",
+                    "name": "ccc",
+                    "nameData": null,
+                    "pos": 16899,
+                    "due": null,
+                    "idMember": null
+                }
+            ],
+            "limits": { "checkItems": { "perChecklist": { "status": "ok", "disableAt": 200, "warnAt": 180 } } }
+        }
+    ],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "602fe1fac267ad39e462dfd0",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "card": {
+                    "id": "602fe15089aee08e4f5784f1",
+                    "name": "Work Experience",
+                    "idShort": 15,
+                    "shortLink": "7R57rMIz"
+                },
+                "checklist": { "id": "602fe1fac267ad39e462dfce", "name": "昊盈資訊有限公司" },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" }
+            },
+            "type": "addChecklistToCard",
+            "date": "2021-02-19T16:06:18.356Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        },
+        {
+            "id": "602fe1c6625c0c71efad53b1",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "old": { "name": "開璽股份有限公司" },
+                "checklist": { "name": "開璽國際有限公司", "id": "602fe199529b045346427ba2" },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" },
+                "card": {
+                    "id": "602fe15089aee08e4f5784f1",
+                    "name": "Work Experience",
+                    "idShort": 15,
+                    "shortLink": "7R57rMIz"
+                }
+            },
+            "type": "updateChecklist",
+            "date": "2021-02-19T16:05:26.698Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        },
+        {
+            "id": "602fe199529b045346427ba4",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "card": {
+                    "id": "602fe15089aee08e4f5784f1",
+                    "name": "Work Experience",
+                    "idShort": 15,
+                    "shortLink": "7R57rMIz"
+                },
+                "checklist": { "id": "602fe199529b045346427ba2", "name": "開璽股份有限公司" },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" }
+            },
+            "type": "addChecklistToCard",
+            "date": "2021-02-19T16:04:41.475Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        },
+        {
+            "id": "602fe175cd187864bd391018",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "card": {
+                    "id": "602fe15089aee08e4f5784f1",
+                    "name": "Work Experience",
+                    "idShort": 15,
+                    "shortLink": "7R57rMIz"
+                },
+                "checklist": { "id": "602fe175cd187864bd391016", "name": "中央資訊社" },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" }
+            },
+            "type": "addChecklistToCard",
+            "date": "2021-02-19T16:04:05.381Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        },
+        {
+            "id": "602fe15089aee08e4f5784f2",
+            "idMemberCreator": "5f2a028a97c8517aec9ef3fd",
+            "data": {
+                "card": {
+                    "id": "602fe15089aee08e4f5784f1",
+                    "name": "Work Experience",
+                    "idShort": 15,
+                    "shortLink": "7R57rMIz"
+                },
+                "list": { "id": "602b69c0147d480846824156", "name": "Burton" },
+                "board": { "id": "5ff5af00b1b4c0185d71966b", "name": "網站後台", "shortLink": "w5RXRC9J" }
+            },
+            "type": "createCard",
+            "date": "2021-02-19T16:03:28.908Z",
+            "appCreator": null,
+            "limits": {},
+            "memberCreator": {
+                "id": "5f2a028a97c8517aec9ef3fd",
+                "username": "user63257349",
+                "activityBlocked": false,
+                "avatarHash": null,
+                "avatarUrl": null,
+                "fullName": "宏",
+                "idMemberReferrer": null,
+                "initials": "宏",
+                "nonPublic": {},
+                "nonPublicAvailable": false
+            }
+        }
+    ]
+}
